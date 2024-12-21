@@ -1,0 +1,14 @@
+{
+    "version": 2024122003,
+    "requires": 2020061500,
+    "component": "filter_recitactivity",
+    "release": "v2.0.12-stable",
+    "maturity": 200,
+    "supported": [
+        39,
+        405
+    ],
+    "dependencies": {
+        "filter_shortcodes": "any"
+    }
+}

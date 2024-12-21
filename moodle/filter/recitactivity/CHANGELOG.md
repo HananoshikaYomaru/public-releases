@@ -1,0 +1,39 @@
+# CHANGELOG
+
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/),
+and this project adheres to [Semantic Versioning](https://semver.org/).
+
+## [Unreleased]
+### Added
+- Placeholder for upcoming features or changes.
+
+---
+
+### [v2.0.12-stable] - 2024-12-20
+### Changed
+- Update github workflow
+
+---
+
+## [v2.0.11-stable] - 2024-12-20
+### Added
+- Initial support for Moodle 4.0.x and later versions.
+- Updated dependency requirements for `filter_shortcodes`.
+
+### Changed
+- Improved stability for Moodle 3.11.x and above.
+- Updated plugin release notes and documentation.
+
+### Fixed
+- Fixed compatibility issues with specific Moodle filters.
+
+---
+
+## [v2.0.10-stable] - 2024-12-18
+### Added
+- Support for Moodle 3.9.x and 3.10.x versions.
+
+### Fixed
+- Resolved minor bugs in activity name filtering logic.

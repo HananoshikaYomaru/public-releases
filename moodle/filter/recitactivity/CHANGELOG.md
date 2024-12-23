@@ -10,6 +10,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - Placeholder for upcoming features or changes.
 
 --- 
+### [v2.0.15-stable] - 2024-12-22
+
+- fix the caching bug in `externalhtml`
+
+---
 
 ### [v2.0.14-stable] - 2024-12-22
 

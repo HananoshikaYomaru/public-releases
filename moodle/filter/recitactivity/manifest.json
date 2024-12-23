@@ -1,8 +1,8 @@
 {
-    "version": 2024122301,
+    "version": 2024122302,
     "requires": 2020061500,
     "component": "filter_recitactivity",
-    "release": "v2.0.14-stable",
+    "release": "v2.0.15-stable",
     "maturity": 200,
     "supported": [
         39,

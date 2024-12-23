@@ -9,6 +9,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ### Added
 - Placeholder for upcoming features or changes.
 
+--- 
+
+### [v2.0.14-stable] - 2024-12-22
+
+- revert the changes in v2.0.13 because it is a mistake
+- fix the caching bug in `externalhtml`
+
+--- 
+
+### [v2.0.13-stable] - 2024-12-22
+
+### Changed 
+
+- update github workflow and fix `[shortcodes]` bugs
+
 ---
 
 ### [v2.0.12-stable] - 2024-12-20
